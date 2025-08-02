@@ -1,0 +1,35 @@
+{
+  "name": "rami-al-dhaifani-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Rami Al-Dhaifani - Senior Software Testing Engineer",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "portfolio",
+    "software-testing",
+    "qa-engineer",
+    "professional",
+    "personal-website",
+    "seo-optimized",
+    "responsive",
+    "pwa"
+  ],
+  "author": "Rami Al-Dhaifani",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/rami-portfolio.git"
+  },
+  "homepage": "https://ramialdhaifani.com",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+} 

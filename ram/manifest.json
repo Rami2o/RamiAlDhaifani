@@ -1,0 +1,27 @@
+{
+    "name": "Rami Al-Dhaifani - Senior Software Testing Engineer",
+    "short_name": "Rami Portfolio",
+    "description": "Professional portfolio of Rami Al-Dhaifani - Senior Software Testing Engineer with 10+ years of experience",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#8B0000",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "images/rami-profile.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/rami-profile.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["business", "productivity", "education"],
+    "lang": "en",
+    "dir": "ltr"
+} 
